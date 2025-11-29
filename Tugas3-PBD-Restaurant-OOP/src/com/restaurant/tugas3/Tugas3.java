@@ -6,7 +6,8 @@ package com.restaurant.tugas3;
 
 /**
  *
- * @author user
+ * @nim     054128848
+ * @nama    Ge Valent Nikolas
  */
 
 import java.util.Scanner;

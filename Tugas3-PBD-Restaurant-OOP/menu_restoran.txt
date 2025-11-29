@@ -1,0 +1,6 @@
+MAKANAN;Nasi Goreng;15000.00;Makanan;Nasi
+MAKANAN;Mie Goreng;15000.00;Makanan;Mie
+MINUMAN;Es Teh;5000.00;Minuman;Dingin
+MINUMAN;Es Jeruk;8000.00;Minuman;Dingin
+MINUMAN;Kopi Hitam;5000.00;Minuman;Panas
+MINUMAN;Kopi Susu;5000.00;Minuman;Panas
